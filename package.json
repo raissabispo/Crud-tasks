@@ -1,0 +1,17 @@
+{
+  "name": "growup",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Trilha de conhecimento rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.5.2",
+    "fast-csv": "^5.0.2"
+  }
+}
